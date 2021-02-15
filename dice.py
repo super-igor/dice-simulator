@@ -1,4 +1,5 @@
 import pygame as pg
+import Colors as clr
 
 FPS = 60
 
